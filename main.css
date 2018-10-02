@@ -1,0 +1,35 @@
+body {
+background-color: #a9c9ba;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-top: 150px;
+}
+
+h1 {
+font-weight: lighter;
+font-size: 40px;
+color: white;
+font-family: sans-serif;
+letter-spacing: 2px;
+}
+
+.InputSection {
+margin: 50px 0px;
+width: 400px;
+}
+
+.Inputs {
+width: inherit;
+display: flex;
+flex-direction: column;
+}
+
+input {
+margin-top: 20px;
+}
+
+.addOption {
+margin-top: 40px;
+}
