@@ -33,3 +33,13 @@ margin-top: 20px;
 .addOption {
 margin-top: 40px;
 }
+
+.resultSection {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: sans-serif;
+  font-size: 35px;
+}
